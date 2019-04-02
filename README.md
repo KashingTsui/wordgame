@@ -1,4 +1,4 @@
-# wording-game 成语接龙
+﻿# wording-game 成语接龙
 Git command practice
 
 ## rules
@@ -21,4 +21,5 @@ Git command practice
 龙腾虎跃
 跃跃欲试
 试才录用
+用其所长
 ```
